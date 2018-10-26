@@ -1,1 +1,1 @@
-This project is a data anaylsis written in python 3.5 that shows the correlations between SAT scores and ethnicities in New York City's 5 boroughs.
+This is a data analysis project written in python 3.5 that shows the correlations between SAT scores in New York City's 5 boroughs.
